@@ -11,17 +11,6 @@ Video Aspect Ratio: 0
 Video Zoom: 6
 YCbCr Matrix: TV.601
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: Wakfu_S2-E12_HD-1080p_English-Softsubbed_715BC363.mkv_audio1.aac
-Video File: Wakfu_S2-E12_HD-1080p_English-Softsubbed_715BC363.mkv_video1.avi
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 26
-Active Line: 27
-Video Position: 1659
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,61,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,133.333,100,0,0,1,4.5,0,2,150,150,45,1
